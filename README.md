@@ -13,6 +13,8 @@ Unity: https://github.com/n1ckfg/UnityPointCloud/blob/master/Shaders/Displacer/P
 
 Processing: https://github.com/n1ckfg/sphere_normals
 
+## ![Result](https://raw.githubusercontent.com/mellinger/three-depthmaps/master/assets/processing-example.png)
+
 ## Example Depthmaps
 
 Facebook Depth Estimation Pipeline: https://user-images.githubusercontent.com/7462577/66524844-72075800-eaa8-11e9-99fe-e5ea20ad00a8.jpg
