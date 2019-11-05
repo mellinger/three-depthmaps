@@ -8,7 +8,7 @@ Ex: https://www.immersiveshooter.com/2018/01/23/use-depth-maps-create-6dof-unity
 WebGL: https://krpano.com/examples/?depthmap
 
 Unity: https://github.com/n1ckfg/UnityPointCloud/blob/master/Shaders/Displacer/PointCloud_Displacer_Spherical_OU.shader
-![Result] (https://raw.githubusercontent.com/mellinger/three-depthmaps/master/assets/fox-example.png)
+![Result](https://raw.githubusercontent.com/mellinger/three-depthmaps/master/assets/fox-example.png)
 
 Processing: https://github.com/n1ckfg/sphere_normals
 
